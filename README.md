@@ -9,7 +9,7 @@ Customer churn is a major challenge in the telecommunication industry. This proj
 ---
 
 ## 🗂️ Dataset  
-The dataset contains customer-level attributes including demographics, service subscriptions, billing information, and churn status.  
+The dataset contains customer-level attributes including demographics, service subscriptions, billing information, and churn status. 
 
 **Key Columns:**  
 - `customerID`  
